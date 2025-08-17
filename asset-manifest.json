@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/side-hustle-matcher/static/css/main.e6c13ad2.css",
-    "main.js": "/side-hustle-matcher/static/js/main.bf74829c.js",
+    "main.js": "/side-hustle-matcher/static/js/main.5d8d5462.js",
     "static/js/453.60217c2e.chunk.js": "/side-hustle-matcher/static/js/453.60217c2e.chunk.js",
     "index.html": "/side-hustle-matcher/index.html",
     "main.e6c13ad2.css.map": "/side-hustle-matcher/static/css/main.e6c13ad2.css.map",
-    "main.bf74829c.js.map": "/side-hustle-matcher/static/js/main.bf74829c.js.map",
+    "main.5d8d5462.js.map": "/side-hustle-matcher/static/js/main.5d8d5462.js.map",
     "453.60217c2e.chunk.js.map": "/side-hustle-matcher/static/js/453.60217c2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bf74829c.js"
+    "static/js/main.5d8d5462.js"
   ]
 }
